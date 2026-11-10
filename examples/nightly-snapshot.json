@@ -1,0 +1,23 @@
+{
+  "schoolId": "north-campus",
+  "snapshotDate": "2026-09-19",
+  "courses": [
+    {
+      "courseId": "math-204",
+      "title": "Applied Statistics",
+      "delivery": "blended",
+      "educatorId": "educator-17",
+      "learnerDeadlines": [
+        {
+          "learnerId": "learner-42",
+          "dueAt": "2026-09-21T16:00:00.000Z",
+          "status": "open"
+        }
+      ],
+      "reporting": {
+        "enrolled": 28,
+        "completed": 19
+      }
+    }
+  ]
+}
